@@ -1,2 +1,0 @@
-# demopy
-Print("hello") 
